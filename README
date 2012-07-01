@@ -1,2 +1,0 @@
-INSTALL:
-pip install git+git://github.com/tinio/pysqlite.git@extension-enabled#egg=pysqlite
